@@ -1,7 +1,8 @@
-# Welcome to the CS 429 System Emulator Lab!
+# Welcome to the System Emulator!
 
 This is a brief overview of the repository,
 which contains information about the codebase and how to run it.
+Half of the credit for this project goes to Owen Francisco Smith
 
 # Running the emulator
 
